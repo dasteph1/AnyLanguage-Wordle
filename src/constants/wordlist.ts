@@ -43,7 +43,7 @@ export const WORDS = [
   'Queen',
   'Saudi',
   "Giant",
-  'Ortiz,
+  'Ortiz',
   'Chris',
   'Britt',
   'Hager',
