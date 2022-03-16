@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wresdle/static/css/main.9360a420.css",
-    "main.js": "/Wresdle/static/js/main.e5dedfb0.js",
+    "main.js": "/Wresdle/static/js/main.66702f24.js",
     "static/js/787.bae2cfb5.chunk.js": "/Wresdle/static/js/787.bae2cfb5.chunk.js",
     "static/media/BCSans-Bold.woff": "/Wresdle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Wresdle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/Wresdle/index.html",
     "static/media/getFetch.cjs": "/Wresdle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.9360a420.css.map": "/Wresdle/static/css/main.9360a420.css.map",
-    "main.e5dedfb0.js.map": "/Wresdle/static/js/main.e5dedfb0.js.map",
+    "main.66702f24.js.map": "/Wresdle/static/js/main.66702f24.js.map",
     "787.bae2cfb5.chunk.js.map": "/Wresdle/static/js/787.bae2cfb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9360a420.css",
-    "static/js/main.e5dedfb0.js"
+    "static/js/main.66702f24.js"
   ]
 }
