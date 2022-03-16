@@ -5852,7 +5852,7 @@ export const VALIDGUESSES = [
     'BIFFY',
     'PUPAL',
   ]
-]
+
 
 if (CONFIG.normalization) {
   VALIDGUESSES.forEach(
