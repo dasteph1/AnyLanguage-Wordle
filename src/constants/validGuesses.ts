@@ -94,7 +94,6 @@ export const VALIDGUESSES = [
   'DEATH',
   "CROSS",
   "TIGER",
- EXPORT CONST WORDS = [
     'WHICH',
     'THERE',
     'THEIR',
